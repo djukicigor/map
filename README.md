@@ -15,4 +15,4 @@ You can also:
   - Edit picker if you click on it
   - Delete picker 
 
-Check demo [here](map.byethost7.com)
+Check demo [here](http://map.byethost7.com/edit-mode.html)
